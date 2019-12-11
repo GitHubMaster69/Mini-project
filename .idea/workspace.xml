@@ -2,10 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="73c8f7c3-0d30-4670-a619-6bacb1fa423a" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/Main/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Main/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Main/resources/earth.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/resources/earth.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/classes/Main/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Main/Main.class" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -54,6 +53,14 @@
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="settings.github" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\bobo1\OneDrive\Dokumenter\GitHub\Mini-project" />
+      <recent name="C:\Users\bobo1\OneDrive\Dokumenter\GitHub\Mini-project\src\main\java\Main\resources" />
+      <recent name="C:\Users\bobo1\OneDrive\Dokumenter\GitHub\Mini-project\src\main\java" />
+      <recent name="C:\Users\bobo1\OneDrive\Dokumenter\GitHub\Mini-project\src\main\java\Main" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
