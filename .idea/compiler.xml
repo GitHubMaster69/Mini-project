@@ -7,6 +7,7 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="Mini project" />
+        <module name="Mini-project" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel target="10" />

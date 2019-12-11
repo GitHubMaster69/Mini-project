@@ -20,7 +20,7 @@ public class Main extends PApplet {
     }
 
     public void setup() {
-       // loadImage(earth.jpg);
+       loadImage("earth.jpg");
 
     }
 
